@@ -6,8 +6,6 @@ This is it. ;)
 
 ## Using the files
 
-I use a nuanced, but common set of productivity, creative, and product development tools, and I often times rebuild machines or share those settings.
+I use a nuanced, but common set of productivity, creative, and product development tools for my MacBook Pro.
 
-This repo is a place for me to share those things with friends and anyone who may find them helpful.
-
-I provide no support for any of the tools, settings, or apps. I hope their helpful. ;)
+This repo is where I share some more common MacBook Pro app settings with friends or others that may find them useful.
