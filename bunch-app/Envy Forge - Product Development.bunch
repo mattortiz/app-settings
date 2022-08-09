@@ -1,0 +1,27 @@
+---
+title: Envy Forge - Product Development
+---
+
+// Hide all apps
+@@
+
+// Open Url using Chrome Profile 
+// You'll find the Chrome Profile by opening the profile and going to the following URL: chrome://version. 
+// The Profile name is at the end of the Profile Path, after the last "/"; e.g. Profile 3 or Default. 
+// Escape any spaces as you see below with a "\". 
+$ ```
+#!/bin/bash
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome https://envyforge.atlassian.net/jira/software/c/projects/EPD/boards/6 --profile-directory=Profile\ 3
+```
+
+// Launch Figma 
+Figma
+
+// Launch Visual Studio using Url Scheme 
+// Note: just opening VS Code using "Visual Studio Code with path option" fails when VS code is already open.
+// So using this alternative method. 
+vscode://file/Users/mattortiz/dev/envyforge/
+
+// Activate these apps (launched above in a non-standard way as they may not be active/showing)
+@Google Chrome
+@Visual Studio Code^

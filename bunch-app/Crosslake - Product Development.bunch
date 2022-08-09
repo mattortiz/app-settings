@@ -1,0 +1,21 @@
+---
+title: Crosslake - Product Development
+---
+
+// Hide all apps
+@@
+
+// Open Url using Chrome Profile 
+$ ```
+#!/bin/bash
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome https://crosslaketech.atlassian.net/jira/software/c/projects/PPI/boards/44 --profile-directory=Default
+```
+
+// Launch Figma 
+Figma
+
+// Launch Visual Studio using Url Scheme 
+vscode://file/Users/mattortiz/dev/crosslake/
+
+// Activate these apps (launched above)
+@Visual Studio Code

@@ -1,0 +1,17 @@
+---
+title: Quit All
+---
+
+// Use @@ to hide all visible apps 
+@@
+
+// Quit everything 
+
+(quit Spark)
+
+(quit Google Chrome)
+
+(quit everything)
+
+// Automator Script in the Bunches folder - catch more 
+& Quit All

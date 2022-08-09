@@ -1,0 +1,15 @@
+---
+title: Bunches | Editor
+---
+
+// Hide all apps 
+@@
+
+
+// Launch these 
+
+https://bunchapp.co/docs/bunch-files/quick-reference/
+
+// Visual Studio Code^
+// - ~/Documents/Bunches
+vscode://file/Users/mattortiz/Documents/Bunches/
