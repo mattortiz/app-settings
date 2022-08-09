@@ -10,4 +10,4 @@ I use a nuanced, but common set of productivity, creative, and product developme
 
 This repo is a place for me to share those things with friends and anyone who may find them helpful.
 
-I provide no support for any of the tools, settings, or apps—what so ever. Hope their helpful. ;)
+I provide no support for any of the tools, settings, or apps. I hope their helpful. ;)
