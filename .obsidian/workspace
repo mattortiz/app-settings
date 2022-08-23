@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "14061cf759e29bd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8208e75ca164a518",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "moom-app/README.MD",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb9265fc14366bb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6c2a64d3be24d42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "159831820aa9abd8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "13c68822188d1c5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "00918032bc0c7699",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64956f2ec5557d9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ee16c196fec7997",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eb89309e4137991",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "moom-app/README.MD",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46ab580cd627f137",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "moom-app/README.MD",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce82c983d9f697de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "512d10e2c9d4fec3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "moom-app/README.MD"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8208e75ca164a518",
+  "lastOpenFiles": [
+    "bunch-app/README.md",
+    "moom-app/README.MD",
+    "bunch-app/Quit All.workflow/Contents/QuickLook/Preview.png"
+  ]
+}
